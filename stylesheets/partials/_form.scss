@@ -1,0 +1,75 @@
+/**
+ * Cytonn Technologies
+ *
+ * @author: Ronnie Nyaga <rnyaga@cytonn.com>
+ *
+ * Project: sass.app
+ *
+ */
+
+
+.form-sign-in-with-social{
+    background-color: rgb(255,255,255);
+    padding: 30px;
+    margin-right: 15%;
+    float: right;
+    text-align: center;
+    display: inline-block;
+    box-sizing: border-box;
+    vertical-align: top;
+    text-align: center;
+}
+
+.form-sign-in-with-social .form-title-row{
+    margin-bottom: 50px;
+}
+
+.form-sign-in-with-social .form-title{
+    box-sizing: border-box;
+    color:  #4c565e;
+    font-size: 24px;
+    padding: 15px 20px;
+    border-bottom: 2px solid #6caee0;
+}
+
+.form-sign-in-with-social .form-google-button{
+    color:  #ffffff;
+    display: block;
+    width: 145px;
+    height: 40px;
+    font-size: 12px;
+    line-height: 40px;
+    background-color:  rgba(222, 110, 60, 0.9);
+    box-shadow: 1px 2px 2px 0 rgba(0, 0, 0, 0.08);
+    border-radius: 2px;
+    margin: 8px auto;
+    text-decoration: none;
+}
+
+.form-sign-in-with-social .form-facebook-button{
+    color:  #ffffff;
+    display: block;
+    width: 145px;
+    height: 40px;
+    font-size: 12px;
+    line-height: 40px;
+    background-color:  rgba(75, 136, 194, 0.9);
+    box-shadow: 1px 2px 2px 0 rgba(0, 0, 0, 0.08);
+    border-radius: 2px;
+    margin: 8px auto;
+    text-decoration: none;
+}
+
+.form-sign-in-with-social .form-twitter-button{
+    color:  #ffffff;
+    display: block;
+    width: 145px;
+    height: 40px;
+    font-size: 12px;
+    line-height: 40px;
+    background-color:  rgba(123, 195, 226, 0.9);
+    box-shadow: 1px 2px 2px 0 rgba(0, 0, 0, 0.08);
+    border-radius: 2px;
+    margin: 8px auto;
+    text-decoration: none;
+}
