@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,IAAK,CACH,UAAU,CAAE,iDAAiD,CAC7D,uBAAuB,CAAE,KAAK,CAC9B,oBAAoB,CAAE,KAAK,CAC3B,kBAAkB,CAAE,KAAK,CACzB,eAAe,CAAE,KAAK",
+"sources": ["../stylesheets/partials/_backstretch.scss"],
+"names": [],
+"file": "style.min.css"
+}
