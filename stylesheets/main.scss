@@ -7,12 +7,13 @@
  *
  */
 
- // Partials
+ // Import Partials
  @import "partials/backstretch";
  @import "partials/form";
+ @import "partials/animation";
 
 
-// Third-party
+// Import Third-party
 @import "vendor/bootstrap-sprockets";
 @import "vendor/bootstrap";
 @import "vendor/bootstrap-compass";
@@ -42,6 +43,8 @@ $transparency : rgba(255,255,255,0);
     @extend .col-sm-6;
     background-color : $transparency;
 }
+
+//Nesting
 .column-left {
     margin: 0 auto;
     color: #FFF;
