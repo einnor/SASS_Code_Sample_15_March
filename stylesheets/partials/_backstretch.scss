@@ -1,7 +1,18 @@
+/**
+ * Cytonn Technologies
+ *
+ * @author: Ronnie Nyaga <rnyaga@cytonn.com>
+ *
+ * Project: sass.app
+ *
+ */
+
+
 html {
   background: url("../img/3.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  opacity: 0.5;
 }
